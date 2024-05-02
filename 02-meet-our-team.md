@@ -213,6 +213,18 @@ nav_order: 2
 
 ***
 
+### **Eva Weddell** 
+
+<img 
+  style="float: right;" 
+  src="https://user-images.githubusercontent.com/127869863/229164811-c0d7031d-5df1-456c-a8b6-5fc980e2fa6c.jpg" 
+  width="125" height="125">
+   * OLC - Conservation Biology - Senior 
+  * <a href="mailto: eweddell26630@olc.edu" target="_blank">**Email**</a>
+  * <a href="https://evaweddell.github.io/evaweddell-esiil-stars-webpage/" target="_blank">**Website**</a>
+
+***
+
 ### **ESIIL Test Student** 
 
 <img 
